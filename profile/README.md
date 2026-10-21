@@ -27,7 +27,7 @@ Start with an official plugin and its primary example, or explore a game built w
 | --- | --- | --- | --- |
 | Unity | [Unity plugin](https://github.com/arcweave/arcweave-unity-plugin) | [Unity example](https://github.com/arcweave/arcweave-unity-example) | [Interactive fiction](https://github.com/arcweave/unity-visual-novel-example) |
 | Unreal Engine | [Unreal plugin](https://github.com/arcweave/arcweave-unreal-plugin) | [Unreal example](https://github.com/arcweave/arcweave-unreal-example) | [Quest (Windows)](https://github.com/arcweave/arcweave-unreal-quest-example) |
-| Godot | [Godot plugin (.NET)](https://github.com/arcweave/arcweave-godot-plugin) | [Godot example (.NET)](https://github.com/arcweave/arcweave-godot-example) | [Adventure (Godot 3.5)](https://github.com/arcweave/arcweave-godot-adventure-example) |
+| Godot | [Godot plugin (.NET)](https://github.com/arcweave/arcweave-godot-plugin) | [Godot example (.NET)](https://github.com/arcweave/arcweave-godot-example) | [Adventure (.NET)](https://github.com/arcweave/arcweave-godot-adventure-example) |
 
 Each repository includes setup instructions and engine requirements.
 
